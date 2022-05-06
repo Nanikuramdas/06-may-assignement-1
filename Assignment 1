@@ -1,0 +1,6 @@
+Std={1:['nani',"male",'mccs',98],2:['vivek','male','mccs',89],3:['jyothi','female','mccs',88],4:['saranya','female','mpcs',90],5:['abhi','male','mccs',80]}
+x=int(input("Enter stdno:")
+print('Enter std name:',Std[x][0])
+print('enter std gender:',Std[x][1])
+print('enter std group:',Std[x][2])
+print('enter std result:',Std[x][3])
