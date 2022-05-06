@@ -1,0 +1,6 @@
+Emp={1:['nani',"manager",'12-03-2004',50000,],2:['vivek','developer','13-04-2005',30000],3:['jyothi','developer','23-05-2003',35000],4:['saranya','asst mngr','30-11-2003',45000]}
+x=int(input("Enter empno:"))
+print('Enter emp name:',Emp[x][0])
+print('enter emp design:',Emp[x][1])
+print('enter emp doj:',Emp[x][2])
+print('enter emp sal:',Emp[x][3])
